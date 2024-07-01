@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Tursun</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [CodersClub](https://codersclub.co)
-
-- 🌱 I’m currently learning **Adonis.js**
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **oguzhantursunn@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oguzhantursunnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzhantursunnn" height="30" width="40" /></a>
